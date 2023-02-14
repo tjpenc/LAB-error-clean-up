@@ -2,6 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 import loginButton from '../components/loginButton';
 import logoutButton from '../components/logoutButton';
+// eslint-disable-next-line import/no-unresolved, import/extensions
 import client from '../../utils/apiKeys';
 
 const ViewDirectorBasedOnUserAuthStatus = () => {
