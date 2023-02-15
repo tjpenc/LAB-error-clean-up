@@ -1,7 +1,6 @@
 import form from '../components/form';
 import filterBtnRow from '../components/filterButtonRow';
 import studentAreas from '../components/studentAreas';
-// eslint-disable-next-line import/named
 import { students, voldysArmy } from './sample_data/sample_data';
 import studentsOnDom from './studentsOnDom';
 

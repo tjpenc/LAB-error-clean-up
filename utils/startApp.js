@@ -1,4 +1,3 @@
-/* eslint-disable import/named */
 import { htmlStructure, header } from '../components/introStructure';
 import startSortingBtn from '../components/startSortingButton';
 import events from './events';

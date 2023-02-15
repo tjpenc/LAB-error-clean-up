@@ -1,4 +1,3 @@
-/* eslint-disable import/named */
 import studentsOnDom from './studentsOnDom';
 import { students, houses } from './sample_data/sample_data';
 import createId from './createId';
